@@ -1,4 +1,4 @@
-# Welcome to the blockchain distributed infrastructure ( BDI ) 
+# Welcome to the blockchain distributed infrastructure (BDI) 
 
 This project has been archived. The content remains accessible for historical context.
 
