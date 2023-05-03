@@ -1,5 +1,7 @@
 # Welcome to the blockchain distributed infrastructure ( BDI ) 
 
+This project has been archived. The content remains accessible for historical context.
+
 We are writing a bests pratics for blockchains projects  and a comprehensive guide that covers the processes, techniques, cases of use.
 we will produce extensive documentation on best practices, to make the lay public aware, to be a tool for auditors, for developers and enthusiasts.
 
